@@ -16,7 +16,7 @@ The script will be executed in the command line. This script can be used to esti
 
 #### Optional arguments
 
-- ```--batch```, ```-b```: This is the number of genotypes to be randomly selected for each bootstrap sampling. Default is 5.
+- ```--batch```, ```-b```: This is the number of genotypes to be randomly selected for each bootstrap sampling. Default is 1.
 
 - ```--iteration```, ```-i```: This is the number of iterations to perform for the analysis. Default is 100.
 
