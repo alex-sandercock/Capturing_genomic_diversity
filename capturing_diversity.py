@@ -131,7 +131,8 @@ def calculate_statistics(sampling_round_list,batch:int):
     #create 95% confidence interval for population mean weight
     CI = st.t.interval(alpha=0.95, df=len(sampling_round_list)-1, loc=np.mean(sampling_round_list), scale=st.sem(sampling_round_list))
     
-    return(print('Number of trees to sample =',mean_trees,'\nPopulation Standard Deviation =',stand_dev,'\n95% Confidence Intervals =',CI,'\nIterations performed =',len(sampling_round_list)))
+    return(print('Number of trees to sample =',mean_trees,'\n95% Confidence Intervals =',CI,'\nIterations performed =',len(sampling_round_list)))
+    #return(print('Number of trees to sample =',mean_trees,'\nPopulation Standard Deviation =',stand_dev,'\n95% Confidence Intervals =',CI,'\nIterations performed =',len(sampling_round_list)))
 
 
 
