@@ -40,8 +40,6 @@ The output will be provided in the terminal following the completion of all iter
 
 Number of trees to sample = 22.0 
 
-Population Standard Deviation = 4.049691346263317 
-
 95% Confidence Intervals = (16.378127142052662, 27.621872857947338) 
 
 Iterations performed = 5
