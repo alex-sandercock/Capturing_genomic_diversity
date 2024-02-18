@@ -1,6 +1,8 @@
 ## Background
 
-This script was developed for the American_chestnut_landscape_genomics manuscript. The aim was to develop a method for estimating the number of trees to sample from a population in order to capture a predifined percentage of diversity within a breeding population. Specifically, we sought to capture the adaptive diversity from Adaptive Units within TACF chestnut breeding program to deveop locally adapted, blight-resistent American chestnut trees.
+This script was developed for the American chestnut landscape genomics manuscript. The aim was to develop a method for estimating the number of trees to sample from a population in order to capture a predefined percentage of diversity within a breeding population. Specifically, we sought to capture the adaptive diversity from Adaptive Units within TACF chestnut breeding program to develop locally adapted, blight-resistent American chestnut trees.
+
+The preprint for the article can be found at bioRxiv: https://doi.org/10.1101/2023.05.30.542850
 
 ## Getting Started
 
