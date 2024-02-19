@@ -48,7 +48,5 @@ Iterations performed = 5
 
 ```
 
-## Additional help
 
-Refer to the jupyter notebook with a guided example in the /doc folder
 
