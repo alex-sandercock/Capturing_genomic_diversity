@@ -48,5 +48,6 @@ Iterations performed = 5
 
 ```
 
+![image](https://github.com/alex-sandercock/Capturing_genomic_diversity/assets/39815775/72309b85-edeb-4554-8a60-4688d6c4ea98)
 
 
