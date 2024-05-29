@@ -10,7 +10,7 @@ A vcf file should be made beforehand that contains only the putatively adaptive 
 
 ## Usage
 
-The script will be executed in the command line. This script can be used to estimate the number of trees to sample from a population in order to capture a desired percentage of the genomic diversity. 
+The script will be executed in the command line. This script can be used to estimate the number of individuals to sample from a population in order to capture a desired percentage of the genomic diversity. 
 
 #### Required arguments
 
