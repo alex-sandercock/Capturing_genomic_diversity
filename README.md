@@ -48,6 +48,11 @@ Iterations performed = 5
 
 ```
 
+## Notes
+This will not work on a Windows machine.
+
+An R function to perform this analysis is being developed for the BIGr package (github.com/alex-sandercock/BIGr)
+
 #### Release:
 
 ![image](https://github.com/alex-sandercock/Capturing_genomic_diversity/assets/39815775/72309b85-edeb-4554-8a60-4688d6c4ea98)
