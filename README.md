@@ -51,7 +51,7 @@ Iterations performed = 5
 ## Notes
 This will not work on a Windows machine.
 
-An R function to perform this analysis is being developed for the BIGr package (github.com/alex-sandercock/BIGr)
+An R function to perform this analysis has been added to the BIGr package (github.com/alex-sandercock/BIGr)
 
 #### Release:
 
